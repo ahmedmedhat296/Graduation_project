@@ -1,0 +1,13 @@
+nLayer      4
+nIn         784
+nOut        10
+nPat        60000
+alpha       0.1
+beta        0.9
+epochs      50000
+batchSize   1000
+hiddenNodes 512
+64
+16
+initMode    1
+modelFile   freeparameters.txt
