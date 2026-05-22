@@ -1,0 +1,825 @@
+# depslib dependency file v1.0
+1778284141 source:c:\users\ahmed\documents\coding\cpp\6-using classes\ppo_agent_project\src\environment.cpp
+	"environment.h"
+
+1778281902 c:\users\ahmed\documents\coding\cpp\6-using classes\ppo_agent_project\include\environment.h
+	<iostream>
+	"MarketData.h"
+	<cmath>
+	<random>
+
+1778178652 c:\users\ahmed\documents\coding\cpp\6-using classes\ppo_agent_project\include\marketdata.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<map>
+
+1778271055 source:c:\users\ahmed\documents\coding\cpp\6-using classes\ppo_agent_project\src\marketdata.cpp
+	"MarketData.h"
+
+1767006325 source:c:\users\ahmed\documents\coding\cpp\6-using classes\ppo_agent_project\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1535269538 c:\users\ahmed\documents\coding\cpp\6-using classes\ppo_agent_project\include\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1778269744 source:c:\users\ahmed\documents\coding\cpp\6-using classes\ppo_agent_project\src\agent_data.cpp
+	"agent_data.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+
+1778269733 c:\users\ahmed\documents\coding\cpp\6-using classes\ppo_agent_project\include\agent_data.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	<string>
+
+1778284093 c:\users\ahmed\documents\coding\cpp\6-using classes\ppo_agent_project\include\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<fstream>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"trainer.h"
+
+1778267155 c:\users\ahmed\documents\coding\cpp\6-using classes\ppo_agent_project\include\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	<string>
+
+1778269076 c:\users\ahmed\documents\coding\cpp\6-using classes\ppo_agent_project\include\trainer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+
+1778273143 c:\users\ahmed\documents\coding\cpp\6-using classes\ppo_agent_project\include\net.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<fstream>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"agent_data.h"
+
+1778350309 source:c:\users\ahmed\documents\coding\cpp\6-using classes\ppo_agent_project\src\layer.cpp
+	"layer.h"
+
+1778435866 source:c:\users\ahmed\documents\coding\cpp\6-using classes\ppo_agent_project\src\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	<cstdlib>
+	<algorithm>
+	<random>
+	<map>
+	<iomanip>
+	<conio.h>
+	"MarketData.h"
+	"environment.h"
+	"agent.h"
+
+1778345610 c:\users\ahmed\documents\coding\cpp\6-using classes\ppo_agent_project\include\agent.h
+	<iostream>
+	"net.h"
+	"agent_data.h"
+
+1778319727 source:c:\users\ahmed\documents\coding\cpp\6-using classes\ppo_agent_project\src\net.cpp
+	"net.h"
+
+1778269529 source:c:\users\ahmed\documents\coding\cpp\6-using classes\ppo_agent_project\src\trainer.cpp
+	"trainer.h"
+
+1778269748 source:c:\users\ahmed\documents\coding\cpp\6-using classes\ppo_agent_project\src\trainer_trade.cpp
+	"trainer_trade.h"
+
+1778282315 c:\users\ahmed\documents\coding\cpp\6-using classes\ppo_agent_project\include\trainer_trade.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"agent_data.h"
+	"net.h"
+
+1778267125 source:c:\users\ahmed\documents\coding\cpp\6-using classes\ppo_agent_project\src\trainset.cpp
+	"trainSet.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+
+1778430233 source:c:\users\ahmed\documents\coding\cpp\6-using classes\ppo_agent_project\src\agent.cpp
+	<iostream>
+	"agent.h"
+	"environment.h"
+
+1778857684 source:c:\users\ahmed\documents\coding\ppo_agent_project\ahmed medhat\src\agent_data.cpp
+	"agent_data.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+
+1778596030 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed medhat\include\agent_data.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	<string>
+
+1778596030 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed medhat\include\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1778758444 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed medhat\include\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<fstream>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"trainer.h"
+
+1778267155 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed medhat\include\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	<string>
+
+1778269076 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed medhat\include\trainer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+
+1778971475 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed medhat\include\net.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<fstream>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"agent_data.h"
+
+1778971961 source:c:\users\ahmed\documents\coding\ppo_agent_project\ahmed medhat\src\environment.cpp
+	"environment.h"
+
+1778971391 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed medhat\include\environment.h
+	<iostream>
+	"MarketData.h"
+	"matrix.h"
+	<cmath>
+	<random>
+
+1778971349 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed medhat\include\marketdata.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<map>
+
+1778974912 source:c:\users\ahmed\documents\coding\ppo_agent_project\ahmed medhat\src\layer.cpp
+	"layer.h"
+	<cmath>
+	<iostream>
+	<iomanip>
+
+1778971376 source:c:\users\ahmed\documents\coding\ppo_agent_project\ahmed medhat\src\marketdata.cpp
+	"MarketData.h"
+
+1778596030 source:c:\users\ahmed\documents\coding\ppo_agent_project\ahmed medhat\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1778971504 source:c:\users\ahmed\documents\coding\ppo_agent_project\ahmed medhat\src\net.cpp
+	"net.h"
+
+1778980826 source:c:\users\ahmed\documents\coding\ppo_agent_project\ahmed medhat\src\agent.cpp
+	"agent.h"
+
+1778975566 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed medhat\include\agent.h
+	<iostream>
+	<vector>
+	<thread>
+	"environment.h"
+	"net.h"
+
+1778980894 source:c:\users\ahmed\documents\coding\ppo_agent_project\ahmed medhat\src\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"MarketData.h"
+	"environment.h"
+	"agent.h"
+	<cmath>
+	<map>
+	<iomanip>
+
+1778660979 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed medhat\include\trainer_trade.h
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<conio.h>
+	<cmath>
+	<ctime>
+	"agent.h"
+	"environment.h"
+
+1778631441 source:c:\users\ahmed\documents\coding\ppo_agent_project\ahmed medhat\src\trainer_trade.cpp
+	"trainer_trade.h"
+
+1778854868 source:c:\users\ahmed\desktop\github\trading_agent_experiments\ahmed medhat\src\agent.cpp
+	"agent.h"
+
+1778830907 c:\users\ahmed\desktop\github\trading_agent_experiments\ahmed medhat\include\agent.h
+	<iostream>
+	<vector>
+	<thread>
+	"environment.h"
+	"net.h"
+
+1778830907 c:\users\ahmed\desktop\github\trading_agent_experiments\ahmed medhat\include\environment.h
+	<iostream>
+	"MarketData.h"
+	"matrix.h"
+	<cmath>
+	<random>
+
+1778752754 c:\users\ahmed\desktop\github\trading_agent_experiments\ahmed medhat\include\marketdata.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<map>
+
+1778752754 c:\users\ahmed\desktop\github\trading_agent_experiments\ahmed medhat\include\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1778830907 c:\users\ahmed\desktop\github\trading_agent_experiments\ahmed medhat\include\net.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<fstream>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"agent_data.h"
+
+1778830907 c:\users\ahmed\desktop\github\trading_agent_experiments\ahmed medhat\include\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<fstream>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"trainer.h"
+
+1778752754 c:\users\ahmed\desktop\github\trading_agent_experiments\ahmed medhat\include\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	<string>
+
+1778752754 c:\users\ahmed\desktop\github\trading_agent_experiments\ahmed medhat\include\trainer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+
+1778752754 c:\users\ahmed\desktop\github\trading_agent_experiments\ahmed medhat\include\agent_data.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	<string>
+
+1778752754 source:c:\users\ahmed\desktop\github\trading_agent_experiments\ahmed medhat\src\agent_data.cpp
+	"agent_data.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+
+1778830907 source:c:\users\ahmed\desktop\github\trading_agent_experiments\ahmed medhat\src\environment.cpp
+	"environment.h"
+
+1778854868 source:c:\users\ahmed\desktop\github\trading_agent_experiments\ahmed medhat\src\layer.cpp
+	"layer.h"
+	<cmath>
+	<iostream>
+	<iomanip>
+
+1778752754 source:c:\users\ahmed\desktop\github\trading_agent_experiments\ahmed medhat\src\marketdata.cpp
+	"MarketData.h"
+
+1778752754 source:c:\users\ahmed\desktop\github\trading_agent_experiments\ahmed medhat\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1778830907 source:c:\users\ahmed\desktop\github\trading_agent_experiments\ahmed medhat\src\net.cpp
+	"net.h"
+
+1778854869 source:c:\users\ahmed\desktop\github\trading_agent_experiments\ahmed medhat\src\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"MarketData.h"
+	"environment.h"
+	"agent.h"
+	<cmath>
+
+1779061349 source:c:\users\ahmed\documents\my trading agent\my-trading-agent\ahmed_medhat\src\agent.cpp
+	"agent.h"
+
+1779057796 c:\users\ahmed\documents\my trading agent\my-trading-agent\ahmed_medhat\include\agent.h
+	<iostream>
+	<vector>
+	<thread>
+	"environment.h"
+	"net.h"
+
+1779062662 c:\users\ahmed\documents\my trading agent\my-trading-agent\ahmed_medhat\include\environment.h
+	<iostream>
+	"MarketData.h"
+	"matrix.h"
+	<cmath>
+	<random>
+
+1778971349 c:\users\ahmed\documents\my trading agent\my-trading-agent\ahmed_medhat\include\marketdata.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<map>
+
+1778596030 c:\users\ahmed\documents\my trading agent\my-trading-agent\ahmed_medhat\include\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1778971475 c:\users\ahmed\documents\my trading agent\my-trading-agent\ahmed_medhat\include\net.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<fstream>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"agent_data.h"
+
+1778758444 c:\users\ahmed\documents\my trading agent\my-trading-agent\ahmed_medhat\include\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<fstream>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"trainer.h"
+
+1778267155 c:\users\ahmed\documents\my trading agent\my-trading-agent\ahmed_medhat\include\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	<string>
+
+1778269076 c:\users\ahmed\documents\my trading agent\my-trading-agent\ahmed_medhat\include\trainer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+
+1778596030 c:\users\ahmed\documents\my trading agent\my-trading-agent\ahmed_medhat\include\agent_data.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	<string>
+
+1778857684 source:c:\users\ahmed\documents\my trading agent\my-trading-agent\ahmed_medhat\src\agent_data.cpp
+	"agent_data.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+
+1778974912 source:c:\users\ahmed\documents\my trading agent\my-trading-agent\ahmed_medhat\src\layer.cpp
+	"layer.h"
+	<cmath>
+	<iostream>
+	<iomanip>
+
+1779061162 source:c:\users\ahmed\documents\my trading agent\my-trading-agent\ahmed_medhat\src\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"MarketData.h"
+	"environment.h"
+	"agent.h"
+	<cmath>
+	<map>
+	<iomanip>
+
+1778971376 source:c:\users\ahmed\documents\my trading agent\my-trading-agent\ahmed_medhat\src\marketdata.cpp
+	"MarketData.h"
+
+1778596030 source:c:\users\ahmed\documents\my trading agent\my-trading-agent\ahmed_medhat\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1778971504 source:c:\users\ahmed\documents\my trading agent\my-trading-agent\ahmed_medhat\src\net.cpp
+	"net.h"
+
+1779092920 source:c:\users\ahmed\documents\my trading agent\my-trading-agent\ahmed_medhat\src\environment.cpp
+	"environment.h"
+
+1779478527 source:c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\uni_trader\src\agent.cpp
+	"agent.h"
+
+1779057796 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\uni_trader\include\agent.h
+	<iostream>
+	<vector>
+	<thread>
+	"environment.h"
+	"net.h"
+
+1779062662 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\uni_trader\include\environment.h
+	<iostream>
+	"MarketData.h"
+	"matrix.h"
+	<cmath>
+	<random>
+
+1778971349 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\uni_trader\include\marketdata.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<map>
+
+1778596030 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\uni_trader\include\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1778971475 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\uni_trader\include\net.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<fstream>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"agent_data.h"
+
+1778758444 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\uni_trader\include\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<fstream>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"trainer.h"
+
+1778267155 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\uni_trader\include\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	<string>
+
+1778269076 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\uni_trader\include\trainer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+
+1778596030 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\uni_trader\include\agent_data.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	<string>
+
+1778857684 source:c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\uni_trader\src\agent_data.cpp
+	"agent_data.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+
+1779092920 source:c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\uni_trader\src\environment.cpp
+	"environment.h"
+
+1778974912 source:c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\uni_trader\src\layer.cpp
+	"layer.h"
+	<cmath>
+	<iostream>
+	<iomanip>
+
+1779061162 source:c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\uni_trader\src\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"MarketData.h"
+	"environment.h"
+	"agent.h"
+	<cmath>
+	<map>
+	<iomanip>
+
+1778971376 source:c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\uni_trader\src\marketdata.cpp
+	"MarketData.h"
+
+1778596030 source:c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\uni_trader\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1778971504 source:c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\uni_trader\src\net.cpp
+	"net.h"
+
+1779478527 source:c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\old_ahmedmedhat\src\agent.cpp
+	"agent.h"
+
+1779057796 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\old_ahmedmedhat\include\agent.h
+	<iostream>
+	<vector>
+	<thread>
+	"environment.h"
+	"net.h"
+
+1779062662 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\old_ahmedmedhat\include\environment.h
+	<iostream>
+	"MarketData.h"
+	"matrix.h"
+	<cmath>
+	<random>
+
+1778971349 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\old_ahmedmedhat\include\marketdata.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<map>
+
+1778596030 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\old_ahmedmedhat\include\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1778971475 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\old_ahmedmedhat\include\net.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<fstream>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"agent_data.h"
+
+1778758444 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\old_ahmedmedhat\include\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<fstream>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"trainer.h"
+
+1778267155 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\old_ahmedmedhat\include\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	<string>
+
+1778269076 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\old_ahmedmedhat\include\trainer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+
+1778596030 c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\old_ahmedmedhat\include\agent_data.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	<string>
+
+1778857684 source:c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\old_ahmedmedhat\src\agent_data.cpp
+	"agent_data.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+
+1779092920 source:c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\old_ahmedmedhat\src\environment.cpp
+	"environment.h"
+
+1778974912 source:c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\old_ahmedmedhat\src\layer.cpp
+	"layer.h"
+	<cmath>
+	<iostream>
+	<iomanip>
+
+1779061162 source:c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\old_ahmedmedhat\src\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"MarketData.h"
+	"environment.h"
+	"agent.h"
+	<cmath>
+	<map>
+	<iomanip>
+
+1778971376 source:c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\old_ahmedmedhat\src\marketdata.cpp
+	"MarketData.h"
+
+1778596030 source:c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\old_ahmedmedhat\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1778971504 source:c:\users\ahmed\documents\coding\ppo_agent_project\ahmed_medhat\old_ahmedmedhat\src\net.cpp
+	"net.h"
+
